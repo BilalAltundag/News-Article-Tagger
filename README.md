@@ -1,7 +1,6 @@
 # News Article Tagger
 
-![Başlıksız Diyagram drawio](https://github.com/user-attachments/assets/e1c32fb7-9545-44f3-bc3e-83d0d7a27592)
-
+![Başlıksız Diyagram drawio (3)](https://github.com/user-attachments/assets/4dcf0cac-5c15-4033-9969-6196d60cf7e8)
 
 ## Project Overview
 
