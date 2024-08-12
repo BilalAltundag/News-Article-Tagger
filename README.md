@@ -1,5 +1,8 @@
 # News Article Tagger
 
+![Başlıksız Diyagram drawio](https://github.com/user-attachments/assets/e1c32fb7-9545-44f3-bc3e-83d0d7a27592)
+
+
 ## Project Overview
 
 The News Article Tagger is a Python project that scrapes news articles from a specified website, analyzes their content using a language model, and classifies each article based on sentiment, aggressiveness, and language. The results are then exported to a CSV file for further analysis.
