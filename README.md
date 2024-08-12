@@ -23,36 +23,44 @@ The News Article Tagger is a Python project that scrapes news articles from a sp
 
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
+   ```
 Navigate to the Project Directory:
 
-Copy
+```bash
 cd your-repo-name
+```
 Install Required Libraries: Ensure you have Python installed, then install the required libraries:
 basic
 
-Copy
+```
 pip install -r requirements.txt
+```
 Create a requirements.txt file with the following content:
 
-Copy
+```
 langchain_core
 langchain_openai
 langchain_google_genai
 langchain_community
 requests
 beautifulsoup4
+```
+
 Set Up Environment Variables: Add your Google API key to your environment variables:
 
-Copy
+```
 export GOOGLE_API_KEY='your-google-api-key'
+```
+
 Usage
 To run the script and start the article scraping and classification process:
 
 
-Copy
+```
 python main.py
 Contributing
 Contributions are welcome! Please submit issues, feature requests, or pull requests. Ensure your changes are well-documented and tested.
+```
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
